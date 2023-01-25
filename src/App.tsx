@@ -1,11 +1,6 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import './App.css'
 import ExampleComponent from './ExampleComponent'
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <main>
       <div className="flex h-[50vh] items-center justify-center bg-[radial-gradient(ellipse_at_bottom_right,_var(--tw-gradient-stops))] from-indigo-600 to-purple-600">
