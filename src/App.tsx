@@ -9,7 +9,7 @@ function App() {
           <p className="text-center text-xl leading-loose text-white">
             Have I joined the dark side? I'm not sure yet.
           </p>
-          <button className="mx-auto mt-4 block rounded-xl bg-white px-7 py-4 text-lg font-semibold text-black shadow-sm shadow-indigo-900">
+          <button className="mx-auto mt-4 block rounded-xl bg-white px-5 py-3 text-lg font-semibold text-black shadow-sm shadow-indigo-900">
             Join Now
           </button>
         </div>
